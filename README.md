@@ -32,7 +32,7 @@ myscript-math-web is a web component that can be used in every web application (
 
 ## Installation
 
-**Bower**: `bower install myscript`
+**Bower**: `bower install myscript-math-web`
 
 ## Start using myscript-math-web
 
